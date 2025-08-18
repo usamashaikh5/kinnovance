@@ -3,7 +3,7 @@ name: Deploy to Render
 on:
   push:
     branches:
-      - main  # apni branch name yahan daalo
+      - main  # Apni branch yahan daalo agar 'main' nahi hai
 
 jobs:
   deploy:
@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Trigger Render Deploy Hook
         run: |
-          curl -X POST "${{ secrets.RENDER_DEPLOY_HOOK }}"
+          curl -X POST "https://api.render.com/deploy/srv-d2hn6tbe5dus73eqdb0g?key=MpUBmzyLWrE"

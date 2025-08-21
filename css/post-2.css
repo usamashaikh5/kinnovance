@@ -13,8 +13,8 @@
   --row-gap: 0px;
   --column-gap: 0px;
   --flex-wrap: wrap;
-  --padding-top: 140px;
-  --padding-bottom: 140px;
+  --padding-top: 80px;
+  --padding-bottom: 80px;
   --padding-left: 10px;
   --padding-right: 10px;
   overflow: visible;
@@ -160,8 +160,8 @@
   --gap: 0px 0px;
   --row-gap: 0px;
   --column-gap: 0px;
-  --padding-top: 100px;
-  --padding-bottom: 100px;
+  --padding-top: 80px;
+  --padding-bottom: 80px;
   --padding-left: 10px;
   --padding-right: 10px;
   overflow: visible;
@@ -416,8 +416,8 @@ body:not(.rtl)
   --gap: 0px 0px;
   --row-gap: 0px;
   --column-gap: 0px;
-  --padding-top: 100px;
-  --padding-bottom: 100px;
+  --padding-top: 80px;
+  --padding-bottom: 80px;
   --padding-left: 10px;
   --padding-right: 10px;
   overflow: visible;
@@ -1186,8 +1186,8 @@ body:not(.rtl)
   --gap: 0px 0px;
   --row-gap: 0px;
   --column-gap: 0px;
-  --padding-top: 100px;
-  --padding-bottom: 100px;
+  --padding-top: 80px;
+  --padding-bottom: 80px;
   --padding-left: 10px;
   --padding-right: 10px;
   overflow: visible;
@@ -1296,8 +1296,8 @@ body:not(.rtl)
   --gap: 0px 0px;
   --row-gap: 0px;
   --column-gap: 0px;
-  --padding-top: 100px;
-  --padding-bottom: 100px;
+  --padding-top: 80px;
+  --padding-bottom: 80px;
   --padding-left: 10px;
   --padding-right: 10px;
   overflow: visible;
@@ -1772,8 +1772,8 @@ body.rtl .elementor-2659 .elementor-element.elementor-element-7b5e78d {
   --gap: 0px 0px;
   --row-gap: 0px;
   --column-gap: 0px;
-  --padding-top: 100px;
-  --padding-bottom: 100px;
+  --padding-top: 80px;
+  --padding-bottom: 80px;
   --padding-left: 10px;
   --padding-right: 10px;
   overflow: visible;
@@ -2007,8 +2007,8 @@ body.rtl .elementor-2659 .elementor-element.elementor-element-7b5e78d {
   --gap: 0px 0px;
   --row-gap: 0px;
   --column-gap: 0px;
-  --padding-top: 100px;
-  --padding-bottom: 140px;
+  --padding-top: 80px;
+  --padding-bottom: 120px;
   --padding-left: 10px;
   --padding-right: 10px;
   overflow: visible;
@@ -2305,8 +2305,8 @@ body.rtl .elementor-2659 .elementor-element.elementor-element-7b5e78d {
   --gap: 0px 0px;
   --row-gap: 0px;
   --column-gap: 0px;
-  --padding-top: 100px;
-  --padding-bottom: 100px;
+  --padding-top: 80px;
+  --padding-bottom: 80px;
   --padding-left: 10px;
   --padding-right: 10px;
   overflow: visible;
